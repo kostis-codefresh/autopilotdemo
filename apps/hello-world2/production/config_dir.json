@@ -1,0 +1,1 @@
+{"appName":"hello-world2","userGivenName":"hello-world2","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":".","srcRepoURL":"https://github.com/kostis-codefresh/gitops-kubernetes-configuration.git","srcTargetRevision":"","labels":null,"exclude":"","include":""}
